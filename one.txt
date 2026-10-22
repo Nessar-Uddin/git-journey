@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 one
 1
 2
 654
+=======
+one two three
+>>>>>>> f1ae39d767711e3d841cf474a78297ed29952b3d
